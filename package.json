@@ -1,0 +1,16 @@
+{
+  "name": "nwmark",
+  "version": "0.1.1",
+  "description": "markdown editor by nw.js",
+  "main": "app/app.html",
+  "window": {
+    "width": 400,
+    "height": 520,
+    "show": false,
+    "title": "nwmark Editor",
+    "toolbar": false
+  },
+  "scripts": {
+    "start": "nw ."
+  }
+}
